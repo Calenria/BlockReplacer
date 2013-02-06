@@ -27,4 +27,5 @@ Benutzung
 ==========
 ```
 /breplace <welt>
+/breplace <welt> [itemid:data] [itemid:data]
 ```
