@@ -7,8 +7,6 @@ Downloads:
 
 [Letzter Erfolgreicher Build](http://ci.skymine.de/job/BlockReplacer/lastSuccessfulBuild/)
 
-[Letzter Release Build](http://ci.skymine.de/job/BlockReplacer/Release/)
-
 
 Config
 ==========
