@@ -1,8 +1,6 @@
 BlockReplacer
 ==========
 
-BlockReplacer
-
 Downloads:
 
 [Letzter Erfolgreicher Build](http://ci.skymine.de/job/BlockReplacer/lastSuccessfulBuild/)
